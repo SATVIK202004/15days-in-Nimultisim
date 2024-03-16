@@ -14,7 +14,7 @@ This project implements a precision half-wave rectifier circuit using operationa
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuit digram.png)
 
 ## Usage
 
